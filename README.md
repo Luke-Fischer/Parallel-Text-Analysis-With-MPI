@@ -3,6 +3,7 @@ Parallelizes with MPI to compute character frequency in a text file
 
 # Usage
 compile: make
+
 execute: mpiexec -n 5 ./text_analysis -l -s wonderland.txt
 
 Where:
