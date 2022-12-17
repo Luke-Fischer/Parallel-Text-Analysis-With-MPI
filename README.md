@@ -12,4 +12,4 @@ Where:
   - -s flag indicates the output to be displayed in stdout and a text file "out.txt"
   - fileName(wonderland.txt) is the text file you are trying to analyse
   
-An example file "wonderland.txt" (the script from Alice in Wonderland)
+An example file "wonderland.txt" (the script from Alice in Wonderland) has been provided
